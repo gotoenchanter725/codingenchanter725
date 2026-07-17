@@ -5,7 +5,7 @@
 <table align="center">
   <tr>
     <td align="center" width="360" valign="middle">
-      <a href="https://www.git-ranker.com/en/users/runehand">
+      <a href="https://www.git-ranker.com/en/users/everbee7">
         <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOBg8jtQ" alt="Git Ranker" />
       </a>
     </td>
@@ -15,8 +15,8 @@
         <sub>I’m a senior full stack developer with over 8 years of hands-on experience, building products with clean logic, intuitive UI, and solid architecture. I focus on writing structured, precise code that brings ideas to life and creates real impact, one line at a time.</sub>
       </p>
       <br />
-      <a href="https://github.com/runehand?tab=followers">
-        <img src="https://img.shields.io/github/followers/runehand?style=for-the-badge&logo=github&label=Follow%20on%20GitHub&color=0f766e" alt="Followers" />
+      <a href="https://github.com/everbee7?tab=followers">
+        <img src="https://img.shields.io/github/followers/everbee7?style=for-the-badge&logo=github&label=Follow%20on%20GitHub&color=0f766e" alt="Followers" />
       </a>
     </td>
   </tr>
@@ -85,17 +85,17 @@ I don’t wait for perfect. I ship, iterate, and keep improving. Always.
 ### 📊 GitHub Stats
 
 <!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=runehand&theme=nord_dark" alt="Profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=everbee7&theme=nord_dark" alt="Profile details" />
 </p> -->
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=runehand&theme=nord_dark" alt="Stats" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=runehand&theme=nord_dark" alt="Most commit language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=everbee7&theme=nord_dark" alt="Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=everbee7&theme=nord_dark" alt="Most commit language" />
 </p>
 
 <!-- <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=runehand&hide_border=true&background=2E3440&stroke=4C566A&ring=88C0D0&fire=8FBCBB&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=88C0D0&sideLabels=E5E9F0&dates=81A1C1" alt="GitHub streak" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=runehand&theme=nord_dark" alt="Repos per language" />
+  <img height="170" src="https://streak-stats.demolab.com?user=everbee7&hide_border=true&background=2E3440&stroke=4C566A&ring=88C0D0&fire=8FBCBB&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=88C0D0&sideLabels=E5E9F0&dates=81A1C1" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=everbee7&theme=nord_dark" alt="Repos per language" />
 </p> -->
 
 ---
